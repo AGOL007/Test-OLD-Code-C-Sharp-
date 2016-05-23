@@ -1,0 +1,32 @@
+C:\Users\shashanksi\Desktop\New folder\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\New folder\TestBase\bin\Debug\TestBase.dll
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\New folder\TestBase\bin\Debug\TestBase.pdb
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\New folder\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\New folder\TestBase\obj\Debug\TestBase.dll
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\New folder\TestBase\obj\Debug\TestBase.pdb
+C:\Users\shashanksi\Desktop\New folder\TestBase\obj\Debug\TestBase.dll
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\WAB\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+\\CSSLESXI17-VM56\Users\shashanksi\Desktop\WAB\TestBase\obj\Debug\TestBase.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\TestBase.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\TestBase.pdb
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\TestApiCore.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\WebDriver.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\bin\Debug\WebDriver.Support.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\obj\Debug\TestBase.dll
+C:\Users\shashanksi\Desktop\WAB\TestBase\obj\Debug\TestBase.pdb
+C:\Users\Administrator\Desktop\WAB\TestBase\bin\Debug\TestBase.dll
+C:\Users\Administrator\Desktop\WAB\TestBase\bin\Debug\TestBase.pdb
+C:\Users\Administrator\Desktop\WAB\TestBase\obj\Debug\TestBase.dll
+C:\Users\Administrator\Desktop\WAB\TestBase\obj\Debug\TestBase.pdb
+C:\Users\Administrator\Desktop\WAB\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+C:\Users\sagarkul\Desktop\WAB\TestBase\bin\Debug\TestBase.dll
+C:\Users\sagarkul\Desktop\WAB\TestBase\bin\Debug\TestBase.pdb
+C:\Users\sagarkul\Desktop\WAB\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+C:\Users\sagarkul\Desktop\WAB\TestBase\obj\Debug\TestBase.dll
+C:\Users\sagarkul\Desktop\WAB\TestBase\obj\Debug\TestBase.pdb
+C:\Users\Administrator\Desktop\WABAJAY\TestBase\bin\Debug\TestBase.dll
+C:\Users\Administrator\Desktop\WABAJAY\TestBase\bin\Debug\TestBase.pdb
+C:\Users\Administrator\Desktop\WABAJAY\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\WABAJAY\TestBase\obj\Debug\TestBase.dll
+C:\Users\Administrator\Desktop\WABAJAY\TestBase\obj\Debug\TestBase.pdb
